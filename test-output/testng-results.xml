@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Personal" duration-ms="61" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+    <groups>
+    </groups>
+    <test name="Information" duration-ms="61" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+      <class name="Test.Day2">
+        <test-method status="PASS" signature="Car()[pri:0, instance:Test.Day2@6d78f375]" name="Car" duration-ms="1" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Car -->
+        <test-method status="PASS" signature="Model()[pri:0, instance:Test.Day2@6d78f375]" name="Model" duration-ms="1" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Model -->
+        <test-method status="PASS" signature="Version()[pri:0, instance:Test.Day2@6d78f375]" name="Version" duration-ms="1" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Version -->
+        <test-method status="PASS" signature="Year()[pri:0, instance:Test.Day2@6d78f375]" name="Year" duration-ms="1" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Year -->
+      </class> <!-- Test.Day2 -->
+      <class name="Test.Day3">
+        <test-method status="PASS" signature="APIPage()[pri:0, instance:Test.Day3@50c87b21]" name="APIPage" duration-ms="1" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIPage -->
+        <test-method status="PASS" signature="MobilePage()[pri:0, instance:Test.Day3@50c87b21]" name="MobilePage" duration-ms="1" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobilePage -->
+        <test-method status="PASS" signature="WebPage()[pri:0, instance:Test.Day3@50c87b21]" name="WebPage" duration-ms="1" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebPage -->
+      </class> <!-- Test.Day3 -->
+      <class name="Test.Day1">
+        <test-method status="PASS" signature="Age()[pri:0, instance:Test.Day1@7ac7a4e4]" name="Age" duration-ms="10" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Age -->
+        <test-method status="PASS" signature="Birthday()[pri:0, instance:Test.Day1@7ac7a4e4]" name="Birthday" duration-ms="2" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Birthday -->
+        <test-method status="PASS" signature="LastName()[pri:0, instance:Test.Day1@7ac7a4e4]" name="LastName" duration-ms="0" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LastName -->
+        <test-method status="PASS" signature="Name()[pri:0, instance:Test.Day1@7ac7a4e4]" name="Name" duration-ms="1" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Name -->
+      </class> <!-- Test.Day1 -->
+      <class name="Test.Day4">
+        <test-method status="PASS" signature="Birthday()[pri:0, instance:Test.Day4@5f375618]" name="Birthday" duration-ms="0" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Birthday -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Test.Day4@5f375618]" name="MobileTest" duration-ms="0" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="WebTest()[pri:0, instance:Test.Day4@5f375618]" name="WebTest" duration-ms="1" started-at="2019-03-11T18:22:29Z" finished-at="2019-03-11T18:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebTest -->
+      </class> <!-- Test.Day4 -->
+    </test> <!-- Information -->
+  </suite> <!-- Personal -->
+</testng-results>
