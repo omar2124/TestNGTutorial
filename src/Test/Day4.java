@@ -15,7 +15,7 @@ public class Day4 {
 		System.out.println("Chrome for android");
 	}
 	@Test
-	public void Birthday()
+	public void APITest()
 	{
 		System.out.println("Postman tool");
 	}

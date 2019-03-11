@@ -1,5 +1,6 @@
 package Test;
 
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class Day2 {
@@ -23,6 +24,11 @@ public class Day2 {
 	public void Year()
 	{
 		System.out.println("2015");
+	}
+	@BeforeMethod
+	public void BeforeEvery()
+	{
+		System.out.println("I will execute before every test method in day 2");
 	}
 	
 }
