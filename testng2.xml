@@ -4,6 +4,6 @@
   <test name="Test package">
     	<packages>
 			<package name = "Test"/>
-		</packages>   	
+		</packages>	
   </test>
 </suite>

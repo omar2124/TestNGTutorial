@@ -6,12 +6,12 @@ import org.testng.annotations.Test;
 
 public class Day5 {
 
-	@Test
+	@Test(groups= {"Smoke"})
 	public void Welcome()
 	{
 		System.out.println("Hello");
 	}
-	@AfterTest
+	@AfterTest(groups= {"Smoke"})
 	public void Bye()
 	{
 		System.out.println("Good Bye");

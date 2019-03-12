@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Testing">
+	<parameter name = "URL" value = "qaclickacademy.com" />
+	<parameter name = "Username" value = "Omar" />
+	<parameter name = "Password" value = "123456" />
+	<parameter name = "Key" value = "goahead" />
+	<parameter name = "Message" value = "Hi, hellow" />
+  <test name = "Para" >
+  <classes>
+  		<class name = "Test.Day6" />
+  </classes>			
+  </test>
+</suite>

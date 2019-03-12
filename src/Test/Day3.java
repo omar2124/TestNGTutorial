@@ -25,7 +25,7 @@ public class Day3 {
 	{
 		System.out.println("Signoff");
 	}
-	@Test
+	@Test(groups= {"Smoke"})
 	public void MobileReports()
 	{
 		System.out.println("Reports");
@@ -35,7 +35,7 @@ public class Day3 {
 	{
 		System.out.println("Verification");
 	}
-	@Test
+	@Test(dependsOnMethods= {"WebPage", "MobileSignIn"})
 	public void APIPage()
 	{
 		System.out.println("API");
