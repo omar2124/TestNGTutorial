@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Personal]">
+  <parameter name="Message" value="Hi, hellow"/>
+  <parameter name="Username" value="Omar"/>
+  <parameter name="URL" value="qaclickacademy.com"/>
+  <parameter name="Key" value="goahead"/>
+  <parameter name="Password" value="123456"/>
+  <listeners>
+    <listener class-name="Test.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test package(failed)">
+    <classes>
+      <class name="Test.Day8">
+        <methods>
+          <include name="LastExecution"/>
+        </methods>
+      </class> <!-- Test.Day8 -->
+    </classes>
+  </test> <!-- Test package(failed) -->
+</suite> <!-- Failed suite [Personal] -->
