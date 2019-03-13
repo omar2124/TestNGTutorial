@@ -2,131 +2,131 @@
 <testng-results skipped="0" failed="1" ignored="0" total="25" passed="24">
   <reporter-output>
   </reporter-output>
-  <suite name="Personal" duration-ms="164" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+  <suite name="Personal" duration-ms="134" started-at="2019-03-13T15:08:59Z" finished-at="2019-03-13T15:09:00Z">
     <groups>
       <group name="Smoke">
+        <method signature="Day3.MobileReports()[pri:0, instance:Test.Day3@cc285f4]" name="MobileReports" class="Test.Day3"/>
         <method signature="Day4.WebTest()[pri:0, instance:Test.Day4@cb5822]" name="WebTest" class="Test.Day4"/>
         <method signature="Day5.Welcome()[pri:0, instance:Test.Day5@55f3ddb1]" name="Welcome" class="Test.Day5"/>
-        <method signature="Day3.MobileReports()[pri:0, instance:Test.Day3@cc285f4]" name="MobileReports" class="Test.Day3"/>
       </group> <!-- Smoke -->
     </groups>
-    <test name="Test package" duration-ms="164" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+    <test name="Test package" duration-ms="134" started-at="2019-03-13T15:08:59Z" finished-at="2019-03-13T15:09:00Z">
       <class name="Test.Day2">
-        <test-method status="PASS" signature="Car()[pri:0, instance:Test.Day2@18be83e4]" name="Car" duration-ms="9" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Car()[pri:0, instance:Test.Day2@18be83e4]" name="Car" duration-ms="7" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Car -->
-        <test-method status="PASS" signature="BeforeEvery()[pri:0, instance:Test.Day2@18be83e4]" name="BeforeEvery" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="BeforeEvery()[pri:0, instance:Test.Day2@18be83e4]" name="BeforeEvery" is-config="true" duration-ms="0" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeEvery -->
-        <test-method status="PASS" signature="AfterEvery()[pri:0, instance:Test.Day2@18be83e4]" name="AfterEvery" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="AfterEvery()[pri:0, instance:Test.Day2@18be83e4]" name="AfterEvery" is-config="true" duration-ms="0" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterEvery -->
-        <test-method status="PASS" signature="Model()[pri:0, instance:Test.Day2@18be83e4]" name="Model" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="BeforeEvery()[pri:0, instance:Test.Day2@18be83e4]" name="BeforeEvery" is-config="true" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEvery -->
+        <test-method status="PASS" signature="Model()[pri:0, instance:Test.Day2@18be83e4]" name="Model" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Model -->
-        <test-method status="PASS" signature="AfterEvery()[pri:0, instance:Test.Day2@18be83e4]" name="AfterEvery" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="AfterEvery()[pri:0, instance:Test.Day2@18be83e4]" name="AfterEvery" is-config="true" duration-ms="2" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterEvery -->
-        <test-method status="PASS" signature="BeforeEvery()[pri:0, instance:Test.Day2@18be83e4]" name="BeforeEvery" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- BeforeEvery -->
-        <test-method status="PASS" signature="Version()[pri:0, instance:Test.Day2@18be83e4]" name="Version" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Version()[pri:0, instance:Test.Day2@18be83e4]" name="Version" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Version -->
-        <test-method status="PASS" signature="BeforeEvery()[pri:0, instance:Test.Day2@18be83e4]" name="BeforeEvery" is-config="true" duration-ms="5" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="BeforeEvery()[pri:0, instance:Test.Day2@18be83e4]" name="BeforeEvery" is-config="true" duration-ms="0" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeEvery -->
-        <test-method status="PASS" signature="AfterEvery()[pri:0, instance:Test.Day2@18be83e4]" name="AfterEvery" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="AfterEvery()[pri:0, instance:Test.Day2@18be83e4]" name="AfterEvery" is-config="true" duration-ms="0" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterEvery -->
-        <test-method status="PASS" signature="BeforeEvery()[pri:0, instance:Test.Day2@18be83e4]" name="BeforeEvery" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- BeforeEvery -->
-        <test-method status="PASS" signature="Year()[pri:0, instance:Test.Day2@18be83e4]" name="Year" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Year()[pri:0, instance:Test.Day2@18be83e4]" name="Year" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Year -->
-        <test-method status="PASS" signature="AfterEvery()[pri:0, instance:Test.Day2@18be83e4]" name="AfterEvery" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="BeforeEvery()[pri:0, instance:Test.Day2@18be83e4]" name="BeforeEvery" is-config="true" duration-ms="0" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEvery -->
+        <test-method status="PASS" signature="AfterEvery()[pri:0, instance:Test.Day2@18be83e4]" name="AfterEvery" is-config="true" duration-ms="0" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterEvery -->
       </class> <!-- Test.Day2 -->
       <class name="Test.Day3">
-        <test-method status="PASS" signature="BfSuite()[pri:0, instance:Test.Day3@cc285f4]" name="BfSuite" is-config="true" duration-ms="10" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="BfSuite()[pri:0, instance:Test.Day3@cc285f4]" name="BfSuite" is-config="true" duration-ms="11" started-at="2019-03-13T15:08:59Z" finished-at="2019-03-13T15:08:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BfSuite -->
-        <test-method status="PASS" signature="MobilePage()[pri:0, instance:Test.Day3@cc285f4]" name="MobilePage" duration-ms="10" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- MobilePage -->
-        <test-method status="PASS" signature="MobileVerification()[pri:0, instance:Test.Day3@cc285f4]" name="MobileVerification" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- MobileVerification -->
-        <test-method status="PASS" signature="WebPage()[pri:0, instance:Test.Day3@cc285f4]" name="WebPage" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- WebPage -->
-        <test-method status="PASS" signature="MobileSignIn()[pri:0, instance:Test.Day3@cc285f4]" name="MobileSignIn" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- MobileSignIn -->
-        <test-method status="PASS" signature="APIPage()[pri:0, instance:Test.Day3@cc285f4]" name="APIPage" duration-ms="10" started-at="2019-03-13T04:53:58Z" depends-on-methods="Test.Day3.WebPage, Test.Day3.MobileSignIn" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- APIPage -->
-        <test-method status="PASS" signature="MobileSignOff()[pri:0, instance:Test.Day3@cc285f4]" name="MobileSignOff" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- MobileSignOff -->
-        <test-method status="PASS" signature="MobileReports()[pri:0, instance:Test.Day3@cc285f4]" name="MobileReports" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="MobileReports()[pri:0, instance:Test.Day3@cc285f4]" name="MobileReports" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MobileReports -->
+        <test-method status="PASS" signature="MobileSignIn()[pri:0, instance:Test.Day3@cc285f4]" name="MobileSignIn" duration-ms="2" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignIn -->
+        <test-method status="PASS" signature="MobileVerification()[pri:0, instance:Test.Day3@cc285f4]" name="MobileVerification" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileVerification -->
+        <test-method status="PASS" signature="WebPage()[pri:0, instance:Test.Day3@cc285f4]" name="WebPage" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebPage -->
+        <test-method status="PASS" signature="MobilePage()[pri:0, instance:Test.Day3@cc285f4]" name="MobilePage" duration-ms="2" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobilePage -->
+        <test-method status="PASS" signature="MobileSignOff()[pri:0, instance:Test.Day3@cc285f4]" name="MobileSignOff" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignOff -->
+        <test-method status="PASS" signature="APIPage()[pri:0, instance:Test.Day3@cc285f4]" name="APIPage" duration-ms="1" started-at="2019-03-13T15:09:00Z" depends-on-methods="Test.Day3.WebPage, Test.Day3.MobileSignIn" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIPage -->
       </class> <!-- Test.Day3 -->
       <class name="Test.Day1">
-        <test-method status="PASS" signature="Age()[pri:0, instance:Test.Day1@8bd1b6a]" name="Age" duration-ms="4" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Age()[pri:0, instance:Test.Day1@8bd1b6a]" name="Age" duration-ms="5" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Age -->
-        <test-method status="PASS" signature="Birthday()[pri:0, instance:Test.Day1@8bd1b6a]" name="Birthday" duration-ms="1" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Birthday()[pri:0, instance:Test.Day1@8bd1b6a]" name="Birthday" duration-ms="3" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Birthday -->
-        <test-method status="PASS" signature="LastName()[pri:0, instance:Test.Day1@8bd1b6a]" name="LastName" duration-ms="4" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="LastName()[pri:0, instance:Test.Day1@8bd1b6a]" name="LastName" duration-ms="2" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LastName -->
-        <test-method status="PASS" signature="Name()[pri:0, instance:Test.Day1@8bd1b6a]" name="Name" duration-ms="3" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Name()[pri:0, instance:Test.Day1@8bd1b6a]" name="Name" duration-ms="2" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Name -->
-        <test-method status="PASS" signature="LastExecution()[pri:0, instance:Test.Day1@8bd1b6a]" name="LastExecution" is-config="true" duration-ms="5" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LastExecution -->
-        <test-method status="PASS" signature="Bye()[pri:0, instance:Test.Day5@55f3ddb1]" name="Bye" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Bye()[pri:0, instance:Test.Day5@55f3ddb1]" name="Bye" is-config="true" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Bye -->
-        <test-method status="PASS" signature="AfSuite()[pri:0, instance:Test.Day1@8bd1b6a]" name="AfSuite" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="LastExecution()[pri:0, instance:Test.Day1@8bd1b6a]" name="LastExecution" is-config="true" duration-ms="0" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LastExecution -->
+        <test-method status="PASS" signature="AfSuite()[pri:0, instance:Test.Day1@8bd1b6a]" name="AfSuite" is-config="true" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfSuite -->
       </class> <!-- Test.Day1 -->
       <class name="Test.Day6">
-        <test-method status="PASS" signature="LogInSite(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.Day6@4b9e13df]" name="LogInSite" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="LogInSite(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.Day6@4b9e13df]" name="LogInSite" duration-ms="3" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <params>
             <param index="0">
               <value>
@@ -159,7 +159,7 @@
         </test-method> <!-- LogInSite -->
       </class> <!-- Test.Day6 -->
       <class name="Test.Day7">
-        <test-method status="PASS" signature="Data(java.lang.String, java.lang.String)[pri:0, instance:Test.Day7@2b98378d]" name="Data" duration-ms="15" started-at="2019-03-13T04:53:58Z" data-provider="GetData" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Data(java.lang.String, java.lang.String)[pri:0, instance:Test.Day7@2b98378d]" name="Data" duration-ms="3" started-at="2019-03-13T15:09:00Z" data-provider="GetData" finished-at="2019-03-13T15:09:00Z">
           <params>
             <param index="0">
               <value>
@@ -175,7 +175,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Data -->
-        <test-method status="PASS" signature="Data(java.lang.String, java.lang.String)[pri:0, instance:Test.Day7@2b98378d]" name="Data" duration-ms="3" started-at="2019-03-13T04:53:58Z" data-provider="GetData" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Data(java.lang.String, java.lang.String)[pri:0, instance:Test.Day7@2b98378d]" name="Data" duration-ms="1" started-at="2019-03-13T15:09:00Z" data-provider="GetData" finished-at="2019-03-13T15:09:00Z">
           <params>
             <param index="0">
               <value>
@@ -191,7 +191,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Data -->
-        <test-method status="PASS" signature="Data(java.lang.String, java.lang.String)[pri:0, instance:Test.Day7@2b98378d]" name="Data" duration-ms="2" started-at="2019-03-13T04:53:58Z" data-provider="GetData" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Data(java.lang.String, java.lang.String)[pri:0, instance:Test.Day7@2b98378d]" name="Data" duration-ms="2" started-at="2019-03-13T15:09:00Z" data-provider="GetData" finished-at="2019-03-13T15:09:00Z">
           <params>
             <param index="0">
               <value>
@@ -209,43 +209,43 @@
         </test-method> <!-- Data -->
       </class> <!-- Test.Day7 -->
       <class name="Test.Day4">
-        <test-method status="PASS" signature="BefoClass()[pri:0, instance:Test.Day4@cb5822]" name="BefoClass" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="BefoClass()[pri:0, instance:Test.Day4@cb5822]" name="BefoClass" is-config="true" duration-ms="0" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BefoClass -->
-        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Test.Day4@cb5822]" name="MobileTest" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- MobileTest -->
-        <test-method status="PASS" signature="APITest()[pri:0, instance:Test.Day4@cb5822]" name="APITest" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="APITest()[pri:0, instance:Test.Day4@cb5822]" name="APITest" duration-ms="0" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- APITest -->
-        <test-method status="PASS" signature="WebTest()[pri:0, instance:Test.Day4@cb5822]" name="WebTest" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Test.Day4@cb5822]" name="MobileTest" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="WebTest()[pri:0, instance:Test.Day4@cb5822]" name="WebTest" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WebTest -->
-        <test-method status="PASS" signature="BefoClas()[pri:0, instance:Test.Day4@cb5822]" name="BefoClas" is-config="true" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="BefoClas()[pri:0, instance:Test.Day4@cb5822]" name="BefoClas" is-config="true" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BefoClas -->
       </class> <!-- Test.Day4 -->
       <class name="Test.Day5">
-        <test-method status="PASS" signature="PreRequisite()[pri:0, instance:Test.Day5@55f3ddb1]" name="PreRequisite" is-config="true" duration-ms="4" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="PreRequisite()[pri:0, instance:Test.Day5@55f3ddb1]" name="PreRequisite" is-config="true" duration-ms="0" started-at="2019-03-13T15:08:59Z" finished-at="2019-03-13T15:08:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PreRequisite -->
-        <test-method status="PASS" signature="Message()[pri:0, instance:Test.Day5@55f3ddb1]" name="Message" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Message()[pri:0, instance:Test.Day5@55f3ddb1]" name="Message" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Message -->
-        <test-method status="PASS" signature="Welcome()[pri:0, instance:Test.Day5@55f3ddb1]" name="Welcome" duration-ms="0" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="PASS" signature="Welcome()[pri:0, instance:Test.Day5@55f3ddb1]" name="Welcome" duration-ms="1" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Welcome -->
       </class> <!-- Test.Day5 -->
       <class name="Test.Day8">
-        <test-method status="FAIL" signature="LastExecution()[pri:0, instance:Test.Day8@475530b9]" name="LastExecution" duration-ms="5" started-at="2019-03-13T04:53:58Z" finished-at="2019-03-13T04:53:58Z">
+        <test-method status="FAIL" signature="LastExecution()[pri:0, instance:Test.Day8@475530b9]" name="LastExecution" duration-ms="4" started-at="2019-03-13T15:09:00Z" finished-at="2019-03-13T15:09:00Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>

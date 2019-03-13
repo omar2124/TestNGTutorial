@@ -21,7 +21,7 @@ public class Listeners implements ITestListener{
 	@Override
 	public void onTestFailure(ITestResult result) {
 		// TODO Auto-generated method stub
-		System.out.println("I failed the execution");
+		System.out.println("I failed the execution... " + "The test case that failed is: " + result.getName());
 	}
 
 	@Override
